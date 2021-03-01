@@ -1,0 +1,5 @@
+#Ignore text and csv data files
+*.txt
+*.idea
+*.iml
+target/
